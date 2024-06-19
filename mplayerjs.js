@@ -574,39 +574,9 @@ var Player = {
     // Set your own tracks below
     tracks: [
         // {
-        //     artist: "真瑞",
-        //     song: "最美的瞬间",
-        //     url: "//ceveryc.com/music/真瑞 - 最美的瞬间.mp3"
-        // },
-        // {
-        //     artist: "林俊杰",
-        //     song: "X",
-        //     url: "//ceveryc.com/music/林俊杰 - X.mp3"
-        // },
-        // {
-        //     artist: "刘力扬",
-        //     song: "旅途",
-        //     url: "//ceveryc.com/music/刘力扬 - 旅途.mp3"
-        // },
-        // {
-        //     artist: "胡彦斌",
-        //     song: "月光",
-        //     url: "//ceveryc.com/music/胡彦斌 - 月光.mp3"
-        // },
-        // {
-        //     artist: "周深",
-        //     song: "起风了",
-        //     url: "//ceveryc.com/music/周深 - 起风了.mp3"
-        // },
-        // {
-        //     artist: "Jay Chou",
-        //     song: "晴天",
-        //     url: "//ceveryc.com/music/晴天.mp3"
-        // },
-        // {
-        //     artist: "王梓熙",
-        //     song: "化风行万里 (DJ京仔版)",
-        //     url: "//ceveryc.com/music/化风行万里.mp3"
+        //     artist: "singer name, such as 'joel hanson'",
+        //     song: "song name, such as 'traveling light'",
+        //     url: "your audio path, such as '//xxx.com/name.mp3'"
         // },
         {
             artist: "Kavinsky",
